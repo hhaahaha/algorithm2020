@@ -8,7 +8,6 @@ def is_right(u):
             if stack <0 :
                 return False
     if stack == 0: return True
-    else: return False
 
 def make_right(u,v):
     right = '('
